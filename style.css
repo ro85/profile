@@ -22,7 +22,7 @@
 
 body {
   background-color: #eeeeee;
-  font-family: oswald;
+  font-family: Roboto;
   color: #393e46  ;
   font-size: 16px ;
   line-height: 1.6 ;
@@ -35,7 +35,7 @@ img{
 
 h1, h2, h3{
   color: #393e46   ;
-  font-family: roboto;
+  font-family: Oswald;
 }
 
 h2{
@@ -45,6 +45,8 @@ h2{
 .btn-red{
   text-decoration: none;
   color: white;
+  font-family: Roboto;
+  font-weight: 100;
   background-color: #fd1015;
   padding: 10px;
   border-radius: 8px;
